@@ -9,7 +9,7 @@ Cheetah==2.4.4
 Click==7.0
 cloud-init==0.7.6
 configobj==4.7.2
-cryptography==2.7
+cryptography==3.2
 decorator==3.4.0
 docker==3.7.3
 docker-pycreds==0.4.0
